@@ -31,7 +31,7 @@ const VansSection = () => {
             <div className="animate-slide-in-left">
               <div className="bg-luxury-cream rounded-3xl overflow-hidden shadow-2xl">
                 <img
-                  src="https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+                  src="https://images.unsplash.com/photo-1535655685871-dc8158ff167e?q=80&w=464&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   alt="6-Seater Luxury Van"
                   className="w-full h-80 object-cover"
                 />
@@ -95,7 +95,7 @@ const VansSection = () => {
             <div className="lg:order-2 animate-slide-in-right">
               <div className="bg-luxury-cream rounded-3xl overflow-hidden shadow-2xl">
                 <img
-                  src="https://images.unsplash.com/photo-1582562124811-c09040d0a901?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+                  src="https://images.unsplash.com/photo-1675912739507-fe527bb8279d?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   alt="9-Seater Luxury Van"
                   className="w-full h-80 object-cover"
                 />
