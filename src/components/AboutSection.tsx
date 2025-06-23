@@ -31,8 +31,8 @@ const AboutSection = () => {
                   <span className="text-2xl font-bold text-luxury-navy">100+</span>
                 </div>
                 <div>
-                  <h4 className="text-xl font-semibold text-luxury-navy font-playfair">Happy Travelers</h4>
-                  <p className="text-gray-600 font-inter">Trusted by families and corporates across India</p>
+                  <h4 className="text-base sm:text-xl font-semibold text-luxury-navy font-playfair">Happy Travelers</h4>
+                  <p className="text-gray-600 max-sm:text-sm font-inter">Trusted by families and corporates across India</p>
                 </div>
               </div>
             </div>

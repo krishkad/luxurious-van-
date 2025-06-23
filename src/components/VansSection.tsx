@@ -72,7 +72,7 @@ const VansSection = () => {
                     className="flex items-center space-x-3 bg-[var(--luxury-cream)]/50 rounded-lg p-3"
                   >
                     <span className="text-2xl">{item.icon}</span>
-                    <span className="text-luxury-navy font-medium font-inter">
+                    <span className="text-luxury-navy max-sm:text-sm font-medium font-inter">
                       {item.feature}
                     </span>
                   </div>
@@ -136,7 +136,7 @@ const VansSection = () => {
                     className="flex items-center space-x-3 bg-[var(--luxury-cream)]/50 rounded-lg p-3"
                   >
                     <span className="text-2xl">{item.icon}</span>
-                    <span className="text-luxury-navy font-medium font-inter">
+                    <span className="text-luxury-navy max-sm:text-sm font-medium font-inter">
                       {item.feature}
                     </span>
                   </div>
